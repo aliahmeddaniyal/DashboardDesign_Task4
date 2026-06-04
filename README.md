@@ -40,4 +40,4 @@ Superstore Sales Dataset
 This project helped in understanding dashboard design, KPI visualization, data analysis, and creating interactive reports for business decision-making.
 
 ## Author
-[Your Name]
+Ali Ahmed Daniyal
